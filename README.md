@@ -1,5 +1,6 @@
 # README
 
+
 ## Introduction
 This project involves analyzing customer data to understand behavior, segmentation, and response to marketing campaigns. The analysis focuses on customer transaction data, segmentation, and campaign responses to derive actionable insights.
 
